@@ -24,7 +24,7 @@ const PromptCard = ({ post, handleEdit, handleDelete, handleTagClick }) => {
           onClick={() => {}}
         >
           <Image
-            src={"/assets/images/profile_placeholder.jpg"}
+            src={"/assets/icons/profile_placeholder.jpg"}
             alt="user_image"
             width={40}
             height={40}
